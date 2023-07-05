@@ -1,11 +1,5 @@
 ## Hello there! 👋
 
-<div align="center">
-    
-__*Style made to match with the GitHub dark mode, I like more this theme :crescent_moon:*__
-
-</div>
-
 I'm _Danilo_, a Junior Front-end Developer from Brazil! I'm 19 years old and I love to learn and search for new things, mainly using the beauty of design and its interfaces. Not very active here 'cause I'm focused on college (graduation in Software Engineering, doing some Calculus you know?) 🥇
 
 - ⚙️ I’m currently working on **Soul**, an enterprise focused in telehealth
