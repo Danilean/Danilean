@@ -2,7 +2,7 @@
 
 I'm _Danilo_, a Junior Front-end Developer from Brazil! I'm 20 years old and I love to learn and search for new things, mainly using the beauty of design and its interfaces. Not very active here 'cause I'm focused on college (graduation in Software Engineering, doing some Calculus you know?) 🥇
 
-- ⚙️ I’m currently working on **Betha Sistemas**, an enterprise focused in telehealth
+- ⚙️ I’m currently working on **Betha Sistemas**.
 - 📖 I’m learning `JavaScript/TypeScript`, `Angular js`, `Java` and more!
 - 💬 Ask me about anything! Just send me a message or feedback in [Linkedin](https://www.linkedin.com/in/danilo-formanski/)
 - 👾 Fun fact: I play some games, like Valorant and League of Legends
