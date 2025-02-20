@@ -1,35 +1,28 @@
-## Hello there! 👋
+## 👋 E aí! Eu sou o _Danilo_
 
-I'm _Danilo_, a Junior Front-end Developer from Brazil! I'm 20 years old and I love to learn and search for new things, mainly using the beauty of design and its interfaces. Not very active here 'cause I'm focused on college (graduation in Software Engineering, doing some Calculus you know?) 🥇
+Sou um **Desenvolvedor FullStack Júnior** do Brasil 🇧🇷, apaixonado por tecnologia, design e interfaces intuitivas. Tenho **20 anos** e estou sempre buscando aprender algo novo! Atualmente, minha rotina está dividida entre trabalho, faculdade e uns cálculos complicados de Engenharia de Software. 📚
 
-- ⚙️ I’m currently working on **Betha Sistemas**.
-- 📖 I’m learning `JavaScript/TypeScript`, `Angular js`, `Java` and more!
-- 💬 Ask me about anything! Just send me a message or feedback in [Linkedin](https://www.linkedin.com/in/danilo-formanski/)
-- 👾 Fun fact: I play some games, like Valorant and League of Legends
+### 🚀 Sobre mim:
+- 🎨 Curto a estética e a usabilidade no desenvolvimento de interfaces.
+- ⚙️ Trabalho na **Betha Sistemas**.
+- 📚 Estudando `JavaScript/TypeScript`, `AngularJS`, `Java` e mais!
+- 🎮 Nos tempos livres, jogo **Valorant** e **League of Legends**.
+- 💬 Quer trocar uma ideia? Me chama no [LinkedIn](https://www.linkedin.com/in/danilo-formanski/).
 
-**Some Languages, Tools and Social media**
+---
 
+### 🛠️ Tecnologias e Ferramentas:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-<div align="center"> 
-    
-![giphy (1)](https://user-images.githubusercontent.com/110572481/182738002-e046ab6b-075f-496d-8b63-6603609ba3c9.gif)
+---
 
-</div>
+> "O código é uma forma de arte digital." 🎨💻
 
-<div align="center">
-    <img src="https://img.shields.io/badge/React-282A36?style=for-the-badge&logo=react&logoColor=F56B91" />
-    <img src="https://img.shields.io/badge/Next.js-282A36?style=for-the-badge&logo=next.js&logoColor=F56B91" />
-    <img src="https://img.shields.io/badge/TypeScript-282A36?style=for-the-badge&logo=typescript&logoColor=F56B91" />
-    <img src="https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=F56B91" />
-    <img src="https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=F56B91" />
-    <img src="https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=F56B91" />
-</div>
-
- 
-<div align="center"> 
-  <a href="https://instagram.com/daniloformanski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:danilo16formanski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danilo-formanski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-
+---
