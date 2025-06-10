@@ -5,7 +5,7 @@ Sou um **Desenvolvedor FullStack Júnior** do Brasil 🇧🇷, apaixonado por te
 ### 🚀 Sobre mim:
 - 🎨 Curto a estética e a usabilidade no desenvolvimento de interfaces.
 - ⚙️ Trabalho na **Betha Sistemas**.
-- 📚 Estudando `JavaScript/TypeScript`, `AngularJS`, `Java` e mais!
+- 📚 Estudando `JavaScript/TypeScript`, `Python`, `Java` e mais!
 - 🎮 Nos tempos livres, jogo **Valorant** e **League of Legends**.
 - 💬 Quer trocar uma ideia? Me chama no [LinkedIn](https://www.linkedin.com/in/danilo-formanski/).
 
