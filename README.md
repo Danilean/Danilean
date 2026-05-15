@@ -1,11 +1,11 @@
 ## 👋 E aí! Eu sou o _Danilo_
 
-Sou um **Desenvolvedor FullStack Júnior** do Brasil 🇧🇷, apaixonado por tecnologia, design, interfaces intuitivas e automações. Tenho **21 anos** e estou sempre buscando aprender algo novo! Atualmente, minha rotina está dividida entre trabalho, faculdade e uns cálculos complicados de Engenharia de Software. 📚
+Sou um **Analista de Qualidade Júnior** do Brasil 🇧🇷, apaixonado por tecnologia, design, interfaces intuitivas e automações. Tenho **22 anos** e estou sempre buscando aprender algo novo! Atualmente, minha rotina está dividida entre trabalho, faculdade e uns cálculos complicados de Engenharia de Software. 📚
 
 ### 🚀 Sobre mim:
 - 🎨 Curto a estética e a usabilidade no desenvolvimento de interfaces.
 - ⚙️ Trabalho na **Betha Sistemas**.
-- 📚 Estudando `JavaScript/TypeScript`, `Java` e mais!
+- 📚 Estudando `Cypress`, `Playwright` e mais!
 - 🎮 Nos tempos livres, jogo **Valorant** e **League of Legends**.
 - 💬 Quer trocar uma ideia? Me chama no [LinkedIn](https://www.linkedin.com/in/danilo-formanski/).
 
